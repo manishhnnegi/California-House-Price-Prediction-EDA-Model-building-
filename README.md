@@ -1,4 +1,5 @@
 **California-House-Price-Prediction**
+
 This is a regression problem to predict california housing prices.
 
 The dataset contains 20640 entries and 10 variables.
@@ -18,6 +19,7 @@ The dataset contains 20640 entries and 10 variables.
 I have done this project in two parts. First part contains data analysis and cleaning as explained in EDA and data cleaning.ipynb. Second is training of machine learning models explained in Training Machine Learning Algorithms.ipynb.
 
 1) **EDA and Data Cleaning**
+
 I have done the exploratory data analysis and done following manipulations on data.
 
 1 .Creating new features
@@ -26,6 +28,7 @@ I have done the exploratory data analysis and done following manipulations on da
 4. Checking for multicoliniearity
 
 2) **Training machine learning algorithms:**
+
 Here, I have trained various machine learning algorithms like
 1. Linear Regression
 2. Decision tree
